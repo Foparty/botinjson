@@ -29,7 +29,7 @@
       "pt": "entradas",
       "fr": "entrées",
       "de": "Vorspeisen",
-      "cover": "/categories/appetizers.webp"
+      "cover": "/botin/entrantes.webp"
     },
     {
       "order": 2,
@@ -39,7 +39,7 @@
       "pt": "saladas",
       "fr": "salades",
       "de": "Salate",
-      "cover": "/categories/salads.webp"
+      "cover": "/botin/carnes.webp"
     },
     {
       "order": 3,
@@ -49,7 +49,7 @@
       "pt": "sopas",
       "fr": "soupes",
       "de": "Suppen",
-      "cover": "/categories/soups.webp"
+      "cover": "/botin/verduras.webp"
     },
     {
       "order": 4,
@@ -59,7 +59,7 @@
       "pt": "pratos principais",
       "fr": "plats principaux",
       "de": "Hauptgerichte",
-      "cover": "/categories/maincourses.webp"
+      "cover": "/botin/sopas.webp"
     },
     {
       "order": 5,
@@ -69,7 +69,7 @@
       "pt": "acompanhamentos",
       "fr": "accompagnements",
       "de": "Beilagen",
-      "cover": "/categories/sidedishes.webp"
+      "cover": "/botin/huevos.webp"
     },
     {
       "order": 6,
@@ -79,7 +79,7 @@
       "pt": "menu infantil",
       "fr": "menu enfants",
       "de": "Kindermenü",
-      "cover": "/categories/kidsmenu.webp"
+      "cover": "/botin/pescados.webp"
     },
     {
       "order": 7,
@@ -89,7 +89,7 @@
       "pt": "sobremesas",
       "fr": "desserts",
       "de": "Desserts",
-      "cover": "/categories/desserts.webp"
+      "cover": "/botin/postres.webp"
     }
   ],
   "items": [
