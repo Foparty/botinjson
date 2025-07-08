@@ -1814,6 +1814,151 @@
 				"fr": "Entrecôte de veau grillée, pièce juteuse et savoureuse.",
 				"de": "Gegrilltes Entrecôte vom Kalb, saftiges und schmackhaftes Stück."
 			}
+		},
+		{
+			"id": 100,
+			"name_i18n": {
+				"common": "esparragosmahonesa",
+				"es": "Espárragos con mahonesa",
+				"en": "Asparagus with Mayonnaise",
+				"pt": "Espargos com maionese",
+				"fr": "Asperges à la mayonnaise",
+				"de": "Spargel mit Mayonnaise"
+			},
+			"price": 15.0,
+			"cover": "/botin/esparragosmahonesa.webp",
+			"category": {
+				"common": "vegetables",
+				"es": "verduras",
+				"en": "vegetables",
+				"pt": "vegetais",
+				"fr": "légumes",
+				"de": "gemüse"
+			},
+			"allergens": ["eggs"],
+			"description": {
+				"es": "Espárragos blancos servidos con mahonesa casera.",
+				"en": "White asparagus served with homemade mayonnaise.",
+				"pt": "Espargos brancos servidos com maionese caseira.",
+				"fr": "Asperges blanches servies avec de la mayonnaise maison.",
+				"de": "Weißer Spargel mit hausgemachter Mayonnaise."
+			}
+		},
+		{
+			"id": 101,
+			"name_i18n": {
+				"common": "salteadovegetalesjamon",
+				"es": "Salteado de verduras con jamón ibérico",
+				"en": "Sautéed Vegetables with Iberian Ham",
+				"pt": "Legumes salteados com presunto ibérico",
+				"fr": "Légumes sautés au jambon ibérique",
+				"de": "Gebratenes Gemüse mit Ibérico-Schinken"
+			},
+			"price": 15.0,
+			"cover": "/botin/salteadovegetalesjamon.webp",
+			"category": {
+				"common": "vegetables",
+				"es": "verduras",
+				"en": "vegetables",
+				"pt": "vegetais",
+				"fr": "légumes",
+				"de": "gemüse"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Verduras frescas salteadas con jamón ibérico en tiras.",
+				"en": "Fresh vegetables sautéed with strips of Iberian ham.",
+				"pt": "Legumes frescos salteados com tiras de presunto ibérico.",
+				"fr": "Légumes frais sautés avec des lanières de jambon ibérique.",
+				"de": "Frisches Gemüse, gebraten mit Ibérico-Schinkenstreifen."
+			}
+		},
+		{
+			"id": 102,
+			"name_i18n": {
+				"common": "alcachofasjamon",
+				"es": "Alcachofas salteadas con jamón ibérico",
+				"en": "Sautéed Artichokes with Iberian Ham",
+				"pt": "Alcachofras salteadas com presunto ibérico",
+				"fr": "Artichauts sautés au jambon ibérique",
+				"de": "Gebratene Artischocken mit Ibérico-Schinken"
+			},
+			"price": 15.0,
+			"cover": "/botin/alcachofasjamon.webp",
+			"category": {
+				"common": "vegetables",
+				"es": "verduras",
+				"en": "vegetables",
+				"pt": "vegetais",
+				"fr": "légumes",
+				"de": "gemüse"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Alcachofas frescas salteadas con jamón ibérico.",
+				"en": "Fresh artichokes sautéed with Iberian ham.",
+				"pt": "Alcachofras frescas salteadas com presunto ibérico.",
+				"fr": "Artichauts frais sautés avec du jambon ibérique.",
+				"de": "Frische Artischocken, gebraten mit Ibérico-Schinken."
+			}
+		},
+		{
+			"id": 103,
+			"name_i18n": {
+				"common": "judiasverdesjamon",
+				"es": "Judías verdes salteadas con jamón ibérico",
+				"en": "Sautéed Green Beans with Iberian Ham",
+				"pt": "Vagens salteadas com presunto ibérico",
+				"fr": "Haricots verts sautés au jambon ibérique",
+				"de": "Gebratene grüne Bohnen mit Ibérico-Schinken"
+			},
+			"price": 14.0,
+			"cover": "/botin/judiasverdesjamon.webp",
+			"category": {
+				"common": "vegetables",
+				"es": "verduras",
+				"en": "vegetables",
+				"pt": "vegetais",
+				"fr": "légumes",
+				"de": "gemüse"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Judías verdes frescas salteadas con jamón ibérico.",
+				"en": "Fresh green beans sautéed with Iberian ham.",
+				"pt": "Vagens frescas salteadas com presunto ibérico.",
+				"fr": "Haricots verts frais sautés avec du jambon ibérique.",
+				"de": "Frische grüne Bohnen, gebraten mit Ibérico-Schinken."
+			}
+		},
+		{
+			"id": 104,
+			"name_i18n": {
+				"common": "setasjamon",
+				"es": "Setas salteadas con jamón ibérico",
+				"en": "Sautéed Mushrooms with Iberian Ham",
+				"pt": "Cogumelos salteados com presunto ibérico",
+				"fr": "Champignons sautés au jambon ibérique",
+				"de": "Gebratene Pilze mit Ibérico-Schinken"
+			},
+			"price": 15.0,
+			"cover": "/botin/setasjamon.webp",
+			"category": {
+				"common": "vegetables",
+				"es": "verduras",
+				"en": "vegetables",
+				"pt": "vegetais",
+				"fr": "légumes",
+				"de": "gemüse"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Setas frescas salteadas con jamón ibérico.",
+				"en": "Fresh mushrooms sautéed with Iberian ham.",
+				"pt": "Cogumelos frescos salteados com presunto ibérico.",
+				"fr": "Champignons frais sautés avec du jambon ibérique.",
+				"de": "Frische Pilze, gebraten mit Ibérico-Schinken."
+			}
 		}
 	]
 }
