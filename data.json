@@ -107,11 +107,11 @@
 			"cover": "/blackrice.webp",
 			"category": {
 				"common": "soups",
-				"es": "principales",
-				"en": "main courses",
-				"pt": "pratos principais",
-				"fr": "plats principaux",
-				"de": "Hauptgerichte"
+				"es": "sopas",
+				"en": "soups",
+				"pt": "sopas",
+				"fr": "soupes",
+				"de": "Suppen"
 			},
 			"allergens": [
 				"gluten",
