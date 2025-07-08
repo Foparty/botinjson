@@ -1069,6 +1069,14 @@
 				"fr": "soupes",
 				"de": "Suppen"
 			},
+			"allergens": {
+				"common": "celery",
+				"es": "apio",
+				"en": "celery",
+				"pt": "aipo",
+				"fr": "céleri",
+				"de": "Sellerie"
+			},
 			"description": {
 				"es": "Una abundante mezcla de verduras frescas de temporada, cocidas a fuego lento en un caldo sabroso, perfecta para una comida reconfortante.",
 				"en": "A hearty blend of fresh seasonal vegetables, simmered in a savory broth, perfect for a comforting meal.",
@@ -1124,6 +1132,14 @@
 				"pt": "menu infantil",
 				"fr": "menu enfants",
 				"de": "Kindermenü"
+			},
+			"allergens": {
+				"common": "gluten",
+				"es": "gluten",
+				"en": "gluten",
+				"pt": "glúten",
+				"fr": "gluten",
+				"de": "Gluten"
 			},
 			"description": {
 				"es": "Macarrones cremosos y quesosos al horno con una corteza dorada de cheddar, un clásico amigable para los niños que es rico y reconfortante.",
@@ -1360,7 +1376,7 @@
 				"es": "Anchoas del Cantábrico servidas sobre pimientos asados y un toque de aceite de oliva.",
 				"en": "Cantabrian anchovies served over roasted peppers and a drizzle of olive oil.",
 				"pt": "Anchovas do Cantábrico servidas sobre pimentões assados e um fio de azeite.",
-				"fr": "Anchois du Cantabrique servis sur des poivrons rôtis et un filet d'huile d'olive.",
+				"fr": "Anchois du Cantábrique servis sur des poivrons rôtis et un filet d'huile d'olive.",
 				"de": "Kantabrische Sardellen auf gerösteten Paprika mit einem Schuss Olivenöl."
 			}
 		},
@@ -1507,6 +1523,296 @@
 				"pt": "Ensopado tradicional madrileno de dobrada, chouriço e morcela em molho picante.",
 				"fr": "Ragoût traditionnel madrilène de tripes, chorizo et boudin noir dans une sauce épicée.",
 				"de": "Traditioneller Madrider Kuttel-Eintopf mit Chorizo und Blutwurst in pikanter Sauce."
+			}
+		},
+		{
+			"id": 55,
+			"name_i18n": {
+				"common": "cochinilloasado",
+				"es": "Cochinillo asado",
+				"en": "Roast Suckling Pig",
+				"pt": "Leitão assado",
+				"fr": "Cochon de lait rôti",
+				"de": "Spanferkelbraten"
+			},
+			"price": 32.0,
+			"cover": "/botin/cochinilloasado.webp",
+			"category": {
+				"common": "meat",
+				"es": "carnes y asados",
+				"en": "meat and roasts",
+				"pt": "carnes e assados",
+				"fr": "viandes et rôtis",
+				"de": "fleisch und braten"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Cochinillo asado al estilo tradicional, piel crujiente y carne jugosa.",
+				"en": "Traditional roast suckling pig with crispy skin and juicy meat.",
+				"pt": "Leitão assado ao estilo tradicional, pele crocante e carne suculenta.",
+				"fr": "Cochon de lait rôti à la manière traditionnelle, peau croustillante et viande juteuse.",
+				"de": "Traditionell gebratenes Spanferkel mit knuspriger Haut und saftigem Fleisch."
+			}
+		},
+		{
+			"id": 56,
+			"name_i18n": {
+				"common": "corderoasado",
+				"es": "Cordero asado",
+				"en": "Roast Lamb",
+				"pt": "Cordeiro assado",
+				"fr": "Agneau rôti",
+				"de": "Lammbraten"
+			},
+			"price": 32.0,
+			"cover": "/botin/corderoasado.webp",
+			"category": {
+				"common": "meat",
+				"es": "carnes y asados",
+				"en": "meat and roasts",
+				"pt": "carnes e assados",
+				"fr": "viandes et rôtis",
+				"de": "fleisch und braten"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Cordero lechal asado lentamente, tierno y sabroso.",
+				"en": "Slow-roasted suckling lamb, tender and flavorful.",
+				"pt": "Cordeiro assado lentamente, tenro e saboroso.",
+				"fr": "Agneau de lait rôti lentement, tendre et savoureux.",
+				"de": "Langsam gebratener Milchlammbraten, zart und aromatisch."
+			}
+		},
+		{
+			"id": 57,
+			"name_i18n": {
+				"common": "polloasadoconverduras",
+				"es": "Pollo asado con verduras",
+				"en": "Roast Chicken with Vegetables",
+				"pt": "Frango assado com legumes",
+				"fr": "Poulet rôti aux légumes",
+				"de": "Brathähnchen mit Gemüse"
+			},
+			"price": 20.0,
+			"cover": "/botin/polloasadoconverduras.webp",
+			"category": {
+				"common": "meat",
+				"es": "carnes y asados",
+				"en": "meat and roasts",
+				"pt": "carnes e assados",
+				"fr": "viandes et rôtis",
+				"de": "fleisch und braten"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Pollo asado acompañado de verduras frescas de temporada.",
+				"en": "Roast chicken served with fresh seasonal vegetables.",
+				"pt": "Frango assado servido com legumes frescos da estação.",
+				"fr": "Poulet rôti servi avec des légumes frais de saison.",
+				"de": "Brathähnchen serviert mit frischem saisonalem Gemüse."
+			}
+		},
+		{
+			"id": 58,
+			"name_i18n": {
+				"common": "pollocamperopepitoria",
+				"es": "Pollo campero en pepitoria",
+				"en": "Free-Range Chicken Pepitoria",
+				"pt": "Frango caipira à pepitoria",
+				"fr": "Poulet fermier à la pepitoria",
+				"de": "Landhuhn in Pepitoria-Sauce"
+			},
+			"price": 24.0,
+			"cover": "/botin/pollocamperopepitoria.webp",
+			"category": {
+				"common": "meat",
+				"es": "carnes y asados",
+				"en": "meat and roasts",
+				"pt": "carnes e assados",
+				"fr": "viandes et rôtis",
+				"de": "fleisch und braten"
+			},
+			"allergens": ["eggs", "nuts"],
+			"description": {
+				"es": "Pollo campero guisado en salsa pepitoria con almendras y huevo.",
+				"en": "Free-range chicken stewed in pepitoria sauce with almonds and egg.",
+				"pt": "Frango caipira cozido em molho pepitoria com amêndoas e ovo.",
+				"fr": "Poulet fermier mijoté en sauce pepitoria avec amandes et œuf.",
+				"de": "Landhuhn geschmort in Pepitoria-Sauce mit Mandeln und Ei."
+			}
+		},
+		{
+			"id": 59,
+			"name_i18n": {
+				"common": "perdizestofada",
+				"es": "Perdiz estofada",
+				"en": "Braised Partridge",
+				"pt": "Perdiz estufada",
+				"fr": "Perdrix braisée",
+				"de": "Geschmorte Rebhuhn"
+			},
+			"price": 28.0,
+			"cover": "/botin/perdizestofada.webp",
+			"category": {
+				"common": "meat",
+				"es": "carnes y asados",
+				"en": "meat and roasts",
+				"pt": "carnes e assados",
+				"fr": "viandes et rôtis",
+				"de": "fleisch und braten"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Perdiz estofada lentamente en su jugo con verduras y vino.",
+				"en": "Partridge slowly braised in its juices with vegetables and wine.",
+				"pt": "Perdiz estufada lentamente em seu próprio suco com legumes e vinho.",
+				"fr": "Perdrix braisée lentement dans son jus avec des légumes et du vin.",
+				"de": "Rebhuhn langsam im eigenen Saft mit Gemüse und Wein geschmort."
+			}
+		},
+		{
+			"id": 60,
+			"name_i18n": {
+				"common": "fileteterneraplancha",
+				"es": "Filete de ternera a la plancha",
+				"en": "Grilled Veal Steak",
+				"pt": "Filé de vitela grelhado",
+				"fr": "Filet de veau grillé",
+				"de": "Gegrilltes Kalbssteak"
+			},
+			"price": 23.0,
+			"cover": "/botin/fileteterneraplancha.webp",
+			"category": {
+				"common": "meat",
+				"es": "carnes y asados",
+				"en": "meat and roasts",
+				"pt": "carnes e assados",
+				"fr": "viandes et rôtis",
+				"de": "fleisch und braten"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Filete de ternera a la plancha, jugoso y tierno, servido con guarnición.",
+				"en": "Grilled veal steak, juicy and tender, served with garnish.",
+				"pt": "Filé de vitela grelhado, suculento e macio, servido com guarnição.",
+				"fr": "Filet de veau grillé, juteux et tendre, servi avec garniture.",
+				"de": "Gegrilltes Kalbssteak, saftig und zart, mit Beilage serviert."
+			}
+		},
+		{
+			"id": 61,
+			"name_i18n": {
+				"common": "escalopeternera",
+				"es": "Escalope de ternera",
+				"en": "Veal Escalope",
+				"pt": "Escalope de vitela",
+				"fr": "Escalope de veau",
+				"de": "Kalbsschnitzel"
+			},
+			"price": 24.0,
+			"cover": "/botin/escalopeternera.webp",
+			"category": {
+				"common": "meat",
+				"es": "carnes y asados",
+				"en": "meat and roasts",
+				"pt": "carnes e assados",
+				"fr": "viandes et rôtis",
+				"de": "fleisch und braten"
+			},
+			"allergens": ["gluten", "eggs"],
+			"description": {
+				"es": "Escalope de ternera empanado y frito, crujiente por fuera y tierno por dentro.",
+				"en": "Breaded and fried veal escalope, crispy outside and tender inside.",
+				"pt": "Escalope de vitela empanado e frito, crocante por fora e macio por dentro.",
+				"fr": "Escalope de veau panée et frite, croustillante à l'extérieur et tendre à l'intérieur.",
+				"de": "Paniertes und gebratenes Kalbsschnitzel, außen knusprig, innen zart."
+			}
+		},
+		{
+			"id": 62,
+			"name_i18n": {
+				"common": "solomilloplancha",
+				"es": "Solomillo a la plancha",
+				"en": "Grilled Sirloin Steak",
+				"pt": "Filé mignon grelhado",
+				"fr": "Filet de bœuf grillé",
+				"de": "Gegrilltes Rinderfilet"
+			},
+			"price": 31.0,
+			"cover": "/botin/solomilloplancha.webp",
+			"category": {
+				"common": "meat",
+				"es": "carnes y asados",
+				"en": "meat and roasts",
+				"pt": "carnes e assados",
+				"fr": "viandes et rôtis",
+				"de": "fleisch und braten"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Solomillo de ternera a la plancha, jugoso y en su punto.",
+				"en": "Grilled sirloin steak, juicy and perfectly cooked.",
+				"pt": "Filé mignon grelhado, suculento e no ponto.",
+				"fr": "Filet de bœuf grillé, juteux et à point.",
+				"de": "Gegrilltes Rinderfilet, saftig und auf den Punkt gegart."
+			}
+		},
+		{
+			"id": 63,
+			"name_i18n": {
+				"common": "solomillobotinchampinon",
+				"es": "Solomillo Botín al champiñón",
+				"en": "Botín Sirloin with Mushrooms",
+				"pt": "Filé mignon Botín com cogumelos",
+				"fr": "Filet de bœuf Botín aux champignons",
+				"de": "Rinderfilet Botín mit Champignons"
+			},
+			"price": 31.0,
+			"cover": "/botin/solomillobotinchampinon.webp",
+			"category": {
+				"common": "meat",
+				"es": "carnes y asados",
+				"en": "meat and roasts",
+				"pt": "carnes e assados",
+				"fr": "viandes et rôtis",
+				"de": "fleisch und braten"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Solomillo de ternera con salsa de champiñones, receta especial de Botín.",
+				"en": "Sirloin steak with mushroom sauce, Botín's special recipe.",
+				"pt": "Filé mignon com molho de cogumelos, receita especial do Botín.",
+				"fr": "Filet de bœuf avec sauce aux champignons, recette spéciale de Botín.",
+				"de": "Rinderfilet mit Champignonsauce, Spezialität des Hauses Botín."
+			}
+		},
+		{
+			"id": 64,
+			"name_i18n": {
+				"common": "entrecotteplancha",
+				"es": "«Entrecotte» a la plancha",
+				"en": "Grilled Entrecôte Steak",
+				"pt": "Entrecôte grelhado",
+				"fr": "Entrecôte grillée",
+				"de": "Gegrilltes Entrecôte"
+			},
+			"price": 30.0,
+			"cover": "/botin/entrecotteplancha.webp",
+			"category": {
+				"common": "meat",
+				"es": "carnes y asados",
+				"en": "meat and roasts",
+				"pt": "carnes e assados",
+				"fr": "viandes et rôtis",
+				"de": "fleisch und braten"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Entrecotte de ternera a la plancha, corte jugoso y sabroso.",
+				"en": "Grilled entrecôte steak, juicy and flavorful cut.",
+				"pt": "Entrecôte de vitela grelhado, corte suculento e saboroso.",
+				"fr": "Entrecôte de veau grillée, pièce juteuse et savoureuse.",
+				"de": "Gegrilltes Entrecôte vom Kalb, saftiges und schmackhaftes Stück."
 			}
 		}
 	]
