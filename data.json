@@ -1160,6 +1160,354 @@
 				"fr": "Fanta orange rafraîchissante en bouteille de 350ml, pleine de saveur d'agrumes vive et une finale pétillante.",
 				"de": "Erfrischende Fanta Orange in der 350ml-Flasche, voller spritzigem Zitrusgeschmack und prickelndem Abgang."
 			}
+		},
+		{
+			"id": 43,
+			"name_i18n": {
+				"common": "pimientosventresca",
+				"es": "Pimientos asados con ventresca",
+				"en": "Roasted Peppers with Tuna Belly",
+				"pt": "Pimentos assados com ventresca",
+				"fr": "Poivrons rôtis à la ventrèche de thon",
+				"de": "Geröstete Paprika mit Thunfischbauch"
+			},
+			"price": 18.5,
+			"cover": "/botin/pimientosventresca.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["fish"],
+			"description": {
+				"es": "Pimientos rojos asados acompañados de ventresca de atún, aliñados con aceite de oliva virgen extra.",
+				"en": "Roasted red peppers served with tuna belly, drizzled with extra virgin olive oil.",
+				"pt": "Pimentos vermelhos assados servidos com ventresca de atum e azeite extra virgem.",
+				"fr": "Poivrons rouges rôtis accompagnés de ventrèche de thon, assaisonnés d'huile d'olive extra vierge.",
+				"de": "Geröstete rote Paprika mit Thunfischbauch, beträufelt mit nativem Olivenöl extra."
+			}
+		},
+		{
+			"id": 44,
+			"name_i18n": {
+				"common": "ensaladillarusa",
+				"es": "Ensaladilla rusa",
+				"en": "Russian Salad",
+				"pt": "Salada Russa",
+				"fr": "Salade russe",
+				"de": "Russischer Salat"
+			},
+			"price": 10.5,
+			"cover": "/botin/ensaladillarusa.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["eggs", "fish", "mustard"],
+			"description": {
+				"es": "Clásica ensaladilla rusa con atún, patata, zanahoria, guisantes y mayonesa.",
+				"en": "Classic Russian salad with tuna, potato, carrot, peas, and mayonnaise.",
+				"pt": "Clássica salada russa com atum, batata, cenoura, ervilhas e maionese.",
+				"fr": "Salade russe classique avec thon, pomme de terre, carotte, petits pois et mayonnaise.",
+				"de": "Klassischer russischer Salat mit Thunfisch, Kartoffeln, Karotten, Erbsen und Mayonnaise."
+			}
+		},
+		{
+			"id": 45,
+			"name_i18n": {
+				"common": "jamoniberico",
+				"es": "Jamón ibérico de bellota",
+				"en": "Iberian Acorn-Fed Ham",
+				"pt": "Presunto ibérico de bolota",
+				"fr": "Jambon ibérique de bellota",
+				"de": "Ibérico-Schinken aus Eichelmast"
+			},
+			"price": 28.0,
+			"cover": "/botin/jamoniberico.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Jamón ibérico de bellota cortado a mano, de sabor intenso y textura jugosa.",
+				"en": "Hand-carved acorn-fed Iberian ham, with intense flavor and juicy texture.",
+				"pt": "Presunto ibérico de bolota cortado à mão, de sabor intenso e textura suculenta.",
+				"fr": "Jambon ibérique de bellota tranché à la main, saveur intense et texture juteuse.",
+				"de": "Handgeschnittener Ibérico-Schinken aus Eichelmast, mit intensivem Geschmack und saftiger Textur."
+			}
+		},
+		{
+			"id": 46,
+			"name_i18n": {
+				"common": "quesooveja",
+				"es": "Queso puro de oveja",
+				"en": "Pure Sheep Cheese",
+				"pt": "Queijo puro de ovelha",
+				"fr": "Fromage pur brebis",
+				"de": "Reiner Schafskäse"
+			},
+			"price": 14.0,
+			"cover": "/botin/quesooveja.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["dairy"],
+			"description": {
+				"es": "Queso curado de oveja, de sabor intenso y textura firme, servido en cuñas.",
+				"en": "Aged sheep cheese, intense flavor and firm texture, served in wedges.",
+				"pt": "Queijo de ovelha curado, sabor intenso e textura firme, servido em fatias.",
+				"fr": "Fromage de brebis affiné, saveur intense et texture ferme, servi en quartiers.",
+				"de": "Gereifter Schafskäse, intensiver Geschmack und feste Textur, in Stücken serviert."
+			}
+		},
+		{
+			"id": 47,
+			"name_i18n": {
+				"common": "ensaladabotin",
+				"es": "Ensalada Botín",
+				"en": "Botín Salad",
+				"pt": "Salada Botín",
+				"fr": "Salade Botín",
+				"de": "Botín-Salat"
+			},
+			"price": 12.0,
+			"cover": "/botin/ensaladabotin.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["eggs", "fish"],
+			"description": {
+				"es": "Ensalada variada con lechuga, tomate, espárragos, ventresca y huevo duro.",
+				"en": "Mixed salad with lettuce, tomato, asparagus, tuna belly, and hard-boiled egg.",
+				"pt": "Salada mista com alface, tomate, aspargos, ventresca e ovo cozido.",
+				"fr": "Salade variée avec laitue, tomate, asperges, ventrèche de thon et œuf dur.",
+				"de": "Gemischter Salat mit Kopfsalat, Tomate, Spargel, Thunfischbauch und hartgekochtem Ei."
+			}
+		},
+		{
+			"id": 48,
+			"name_i18n": {
+				"common": "ensaladariojana",
+				"es": "Ensalada riojana",
+				"en": "Rioja-Style Salad",
+				"pt": "Salada à la Rioja",
+				"fr": "Salade riojana",
+				"de": "Rioja-Salat"
+			},
+			"price": 14.0,
+			"cover": "/botin/ensaladariojana.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["eggs", "fish"],
+			"description": {
+				"es": "Ensalada tradicional de La Rioja con patata, atún, huevo duro, pimientos y aceitunas.",
+				"en": "Traditional Rioja salad with potato, tuna, hard-boiled egg, peppers, and olives.",
+				"pt": "Salada tradicional da Rioja com batata, atum, ovo cozido, pimentões e azeitonas.",
+				"fr": "Salade traditionnelle de La Rioja avec pommes de terre, thon, œuf dur, poivrons et olives.",
+				"de": "Traditioneller Rioja-Salat mit Kartoffeln, Thunfisch, hartgekochtem Ei, Paprika und Oliven."
+			}
+		},
+		{
+			"id": 49,
+			"name_i18n": {
+				"common": "anchoaspimientos",
+				"es": "Anchoas con pimientos",
+				"en": "Anchovies with Peppers",
+				"pt": "Anchovas com pimentões",
+				"fr": "Anchois aux poivrons",
+				"de": "Sardellen mit Paprika"
+			},
+			"price": 25.0,
+			"cover": "/botin/anchoaspimientos.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["fish"],
+			"description": {
+				"es": "Anchoas del Cantábrico servidas sobre pimientos asados y un toque de aceite de oliva.",
+				"en": "Cantabrian anchovies served over roasted peppers and a drizzle of olive oil.",
+				"pt": "Anchovas do Cantábrico servidas sobre pimentões assados e um fio de azeite.",
+				"fr": "Anchois du Cantabrique servis sur des poivrons rôtis et un filet d'huile d'olive.",
+				"de": "Kantabrische Sardellen auf gerösteten Paprika mit einem Schuss Olivenöl."
+			}
+		},
+		{
+			"id": 50,
+			"name_i18n": {
+				"common": "morcillaburgos",
+				"es": "Morcilla de Burgos",
+				"en": "Burgos Black Pudding",
+				"pt": "Morcilla de Burgos",
+				"fr": "Boudin noir de Burgos",
+				"de": "Morcilla aus Burgos"
+			},
+			"price": 14.0,
+			"cover": "/botin/morcillaburgos.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["gluten"],
+			"description": {
+				"es": "Morcilla típica de Burgos, elaborada con arroz y especias, servida en rodajas.",
+				"en": "Traditional Burgos black pudding made with rice and spices, served in slices.",
+				"pt": "Morcilla típica de Burgos, feita com arroz e especiarias, servida em fatias.",
+				"fr": "Boudin noir traditionnel de Burgos, à base de riz et d'épices, servi en tranches.",
+				"de": "Typische Morcilla aus Burgos mit Reis und Gewürzen, in Scheiben serviert."
+			}
+		},
+		{
+			"id": 51,
+			"name_i18n": {
+				"common": "croquetaspollojamon",
+				"es": "Croquetas de pollo y jamón",
+				"en": "Chicken and Ham Croquettes",
+				"pt": "Croquetes de frango e presunto",
+				"fr": "Croquettes de poulet et jambon",
+				"de": "Hähnchen- und Schinkenkroketten"
+			},
+			"price": 12.5,
+			"cover": "/botin/croquetaspollojamon.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["gluten", "eggs", "dairy"],
+			"description": {
+				"es": "Croquetas caseras cremosas de pollo y jamón, crujientes por fuera y suaves por dentro.",
+				"en": "Homemade creamy chicken and ham croquettes, crispy outside and soft inside.",
+				"pt": "Croquetes caseiros cremosos de frango e presunto, crocantes por fora e macios por dentro.",
+				"fr": "Croquettes maison crémeuses au poulet et jambon, croustillantes à l'extérieur et moelleuses à l'intérieur.",
+				"de": "Hausgemachte, cremige Hähnchen- und Schinkenkroketten, außen knusprig, innen weich."
+			}
+		},
+		{
+			"id": 52,
+			"name_i18n": {
+				"common": "manitascochinillo",
+				"es": "Manitas de cochinillo rebozadas",
+				"en": "Battered Piglet Trotters",
+				"pt": "Pezinhos de leitão empanados",
+				"fr": "Pieds de cochon panés",
+				"de": "Panierte Spanferkelfüßchen"
+			},
+			"price": 9.5,
+			"cover": "/botin/manitascochinillo.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["gluten", "eggs"],
+			"description": {
+				"es": "Manitas de cochinillo rebozadas y fritas, crujientes y sabrosas, especialidad de la casa.",
+				"en": "Battered and fried piglet trotters, crispy and flavorful, a house specialty.",
+				"pt": "Pezinhos de leitão empanados e fritos, crocantes e saborosos, especialidade da casa.",
+				"fr": "Pieds de cochon panés et frits, croustillants et savoureux, spécialité de la maison.",
+				"de": "Panierte und frittierte Spanferkelfüßchen, knusprig und schmackhaft, eine Hausspezialität."
+			}
+		},
+		{
+			"id": 53,
+			"name_i18n": {
+				"common": "salmonahumado",
+				"es": "Salmón ahumado",
+				"en": "Smoked Salmon",
+				"pt": "Salmão fumado",
+				"fr": "Saumon fumé",
+				"de": "Räucherlachs"
+			},
+			"price": 24.0,
+			"cover": "/botin/salmonahumado.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["fish"],
+			"description": {
+				"es": "Salmón ahumado de calidad superior, cortado en finas lonchas y servido con alcaparras y cebolla.",
+				"en": "Premium smoked salmon, thinly sliced and served with capers and onion.",
+				"pt": "Salmão fumado de alta qualidade, cortado em fatias finas e servido com alcaparras e cebola.",
+				"fr": "Saumon fumé de qualité supérieure, tranché finement et servi avec des câpres et de l'oignon.",
+				"de": "Hochwertiger Räucherlachs, dünn geschnitten, serviert mit Kapern und Zwiebeln."
+			}
+		},
+		{
+			"id": 54,
+			"name_i18n": {
+				"common": "callosmadrilena",
+				"es": "Callos a la Madrileña",
+				"en": "Madrid-Style Tripe Stew",
+				"pt": "Dobrada à la Madrilena",
+				"fr": "Tripes à la madrilène",
+				"de": "Kutteln Madrider Art"
+			},
+			"price": 21.0,
+			"cover": "/botin/callosmadrilena.webp",
+			"category": {
+				"common": "appetizers",
+				"es": "entrantes",
+				"en": "appetizers",
+				"pt": "entradas",
+				"fr": "entrées",
+				"de": "Vorspeisen"
+			},
+			"allergens": ["gluten"],
+			"description": {
+				"es": "Guiso tradicional madrileño de callos, chorizo y morcilla en salsa picante.",
+				"en": "Traditional Madrid-style stew of tripe, chorizo, and blood sausage in a spicy sauce.",
+				"pt": "Ensopado tradicional madrileno de dobrada, chouriço e morcela em molho picante.",
+				"fr": "Ragoût traditionnel madrilène de tripes, chorizo et boudin noir dans une sauce épicée.",
+				"de": "Traditioneller Madrider Kuttel-Eintopf mit Chorizo und Blutwurst in pikanter Sauce."
+			}
 		}
 	]
 }
