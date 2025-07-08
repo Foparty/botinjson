@@ -113,22 +113,7 @@
 				"fr": "soupes",
 				"de": "Suppen"
 			},
-			"allergens": [
-				"gluten",
-				"nuts",
-				"celery",
-				"crustaceans",
-				"dairy",
-				"eggs",
-				"fish",
-				"lupin",
-				"molluscs",
-				"mustard",
-				"peanuts",
-				"sesame",
-				"soybeans",
-				"sulphurdioxide"
-			],
+			"allergens": ["gluten", "nuts", "celery", "crustaceans"],
 			"description": {
 				"es": "Arroz negro infusionado con tinta de calamar, coronado con zamburiñas tiernas y un toque de alioli, lleno de sabores costeros.",
 				"en": "Black rice infused with squid ink, topped with tender scallops and a touch of aioli, bursting with coastal flavors.",
@@ -157,6 +142,7 @@
 				"fr": "boissons",
 				"de": "Getränke"
 			},
+			"allergens": ["citrus"],
 			"description": {
 				"es": "Zumo de naranja natural recién exprimido en vaso de 350ml, rebosante de sabor cítrico dulce y ácido.",
 				"en": "Freshly squeezed natural orange juice in a 350ml glass, bursting with sweet and tangy citrus flavor.",
@@ -185,6 +171,7 @@
 				"fr": "menu enfants",
 				"de": "Kindermenü"
 			},
+			"allergens": ["nuts"],
 			"description": {
 				"es": "Una pizza amigable para niños con una masa suave, cubierta con salsa de tomate rica y queso mozzarella derretido.",
 				"en": "A kid-friendly pizza with a soft crust, topped with rich tomato sauce and melted mozzarella cheese.",
@@ -213,6 +200,7 @@
 				"fr": "plats principaux",
 				"de": "Hauptgerichte"
 			},
+			"allergens": ["celery"],
 			"description": {
 				"es": "Pulpo tierno a la parrilla, sazonado con pimentón ahumado y servido con patatas asadas y un chorrito de aceite de oliva.",
 				"en": "Tender grilled octopus, seasoned with smoked paprika and served with roasted potatoes and a drizzle of olive oil.",
@@ -241,6 +229,7 @@
 				"fr": "salades",
 				"de": "Salate"
 			},
+			"allergens": ["nuts"],
 			"description": {
 				"es": "Una fresca y deliciosa ensalada de aguacate, ideal para acompañar cualquier comida.",
 				"en": "A fresh and delicious avocado salad, perfect to accompany any meal.",
@@ -269,6 +258,7 @@
 				"fr": "accompagnements",
 				"de": "Beilagen"
 			},
+			"allergens": ["gluten"],
 			"description": {
 				"es": "Patatas fritas doradas y crujientes, perfectamente sazonadas y servidas calientes, ideales como acompañamiento o snack.",
 				"en": "Golden, crispy French fries, perfectly seasoned and served hot, ideal as a side or snack.",
@@ -297,6 +287,7 @@
 				"fr": "accompagnements",
 				"de": "Beilagen"
 			},
+			"allergens": ["celery", "mustard"],
 			"description": {
 				"es": "Una mezcla colorida de verduras de temporada al vapor, ligeramente sazonadas y rociadas con aceite de oliva para un acompañamiento saludable y vibrante.",
 				"en": "A colorful mix of steamed seasonal vegetables, lightly seasoned and drizzled with olive oil for a healthy, vibrant side.",
@@ -325,6 +316,7 @@
 				"fr": "boissons",
 				"de": "Getränke"
 			},
+			"allergens": ["sulphurdioxide"],
 			"description": {
 				"es": "Seven Up crujiente y refrescante en botella de 350ml, con un vibrante sabor a limón-lima y un toque efervescente.",
 				"en": "Crisp and refreshing Seven Up in a 350ml bottle, with a zesty lemon-lime flavor and bubbly finish.",
@@ -353,6 +345,7 @@
 				"fr": "boissons",
 				"de": "Getränke"
 			},
+			"allergens": ["gluten", "sulphurdioxide"],
 			"description": {
 				"es": "Una cerveza de barril refrescante, elaborada con lúpulo y cebada de calidad, que ofrece un sabor fresco y equilibrado.",
 				"en": "A refreshing draft beer, brewed with quality hops and barley, offering a crisp and balanced flavor.",
@@ -381,6 +374,7 @@
 				"fr": "boissons",
 				"de": "Getränke"
 			},
+			"allergens": ["citrus"],
 			"description": {
 				"es": "Aquarius con sabor a limón en botella de 350ml, una bebida refrescante sin gas con electrolitos para una hidratación óptima.",
 				"en": "Zesty lemon-flavored Aquarius in a 350ml bottle, a refreshing non-carbonated drink with electrolytes for hydration.",
@@ -409,6 +403,7 @@
 				"fr": "entrées",
 				"de": "Vorspeisen"
 			},
+			"allergens": ["dairy", "nuts"],
 			"description": {
 				"es": "Una deliciosa selección de quesos, perfecta para cualquier reunión.",
 				"en": "A delicious selection of cheeses, perfect for any gathering.",
@@ -437,6 +432,7 @@
 				"fr": "entrées",
 				"de": "Vorspeisen"
 			},
+			"allergens": ["gluten", "eggs"],
 			"description": {
 				"es": "Una empanada tradicional criolla con un relleno sabroso y auténtico.",
 				"en": "A traditional Creole empanada with a flavorful and authentic filling.",
@@ -465,6 +461,7 @@
 				"fr": "salades",
 				"de": "Salate"
 			},
+			"allergens": ["eggs", "fish", "dairy"],
 			"description": {
 				"es": "Lechuga romana crujiente mezclada con aderezo César cremoso, coronada con picatostes, virutas de parmesano y pollo a la parrilla opcional.",
 				"en": "Crisp romaine lettuce tossed with creamy Cesar dressing, topped with croutons, parmesan shavings, and optional grilled chicken.",
@@ -493,6 +490,7 @@
 				"fr": "boissons",
 				"de": "Getränke"
 			},
+			"allergens": ["sulphurdioxide"],
 			"description": {
 				"es": "Un vino blanco fresco y crujiente, servido en copa de 175ml, con vibrantes notas de cítricos y manzana verde.",
 				"en": "A crisp and refreshing white wine, served in a 175ml glass, with vibrant citrus and green apple notes.",
@@ -521,6 +519,7 @@
 				"fr": "soupes",
 				"de": "Suppen"
 			},
+			"allergens": ["celery", "dairy"],
 			"description": {
 				"es": "Una sopa de remolacha vibrante y aterciopelada, mezclada con verduras de raíz y un toque de crema para un sabor rico y terroso.",
 				"en": "A vibrant, velvety beetroot soup, blended with root vegetables and a hint of cream for a rich, earthy flavor.",
@@ -549,6 +548,7 @@
 				"fr": "soupes",
 				"de": "Suppen"
 			},
+			"allergens": ["celery", "gluten"],
 			"description": {
 				"es": "Una sopa fría tradicional española hecha con tomates frescos y verduras.",
 				"en": "A traditional Spanish cold soup made with fresh tomatoes and vegetables.",
@@ -577,6 +577,7 @@
 				"fr": "accompagnements",
 				"de": "Beilagen"
 			},
+			"allergens": ["eggs", "mustard"],
 			"description": {
 				"es": "Repollo y zanahorias ralladas crujientes en un aderezo cremoso y ácido, un acompañamiento refrescante para complementar cualquier comida.",
 				"en": "Crunchy shredded cabbage and carrots in a creamy, tangy dressing, a refreshing side to complement any meal.",
@@ -605,6 +606,7 @@
 				"fr": "desserts",
 				"de": "Desserts"
 			},
+			"allergens": ["dairy"],
 			"description": {
 				"es": "Yogur cremoso mezclado con puré de fresa fresca, coronado con un toque de granola para un crujiente delicioso.",
 				"en": "Creamy yogurt swirled with fresh strawberry puree, topped with a sprinkle of granola for a delightful crunch.",
@@ -633,6 +635,7 @@
 				"fr": "plats principaux",
 				"de": "Hauptgerichte"
 			},
+			"allergens": ["gluten", "eggs", "sesame"],
 			"description": {
 				"es": "Una hamburguesa de pollo crujiente y jugosa servida con lechuga fresca, tomate y una salsa casera picante en un pan tostado.",
 				"en": "A juicy crispy chicken burger served with fresh lettuce, tomato, and a tangy house sauce on a toasted bun.",
@@ -661,6 +664,7 @@
 				"fr": "desserts",
 				"de": "Desserts"
 			},
+			"allergens": ["dairy", "eggs"],
 			"description": {
 				"es": "Dos bolas de helado cremoso, elige tus sabores, servidas con un chorrito de chocolate y nata montada.",
 				"en": "Two scoops of creamy ice cream, choose your flavors, served with a drizzle of chocolate sauce and whipped cream.",
@@ -689,6 +693,7 @@
 				"fr": "desserts",
 				"de": "Desserts"
 			},
+			"allergens": ["gluten", "nuts", "eggs", "dairy"],
 			"description": {
 				"es": "Brownie rico y fudgy con una capa crujiente, servido caliente con una bola de helado de vainilla.",
 				"en": "Rich, fudgy chocolate brownie with a crisp top, served warm with a scoop of vanilla ice cream.",
@@ -717,6 +722,7 @@
 				"fr": "desserts",
 				"de": "Desserts"
 			},
+			"allergens": ["gluten", "eggs", "dairy"],
 			"description": {
 				"es": "Torrijas tradicionales españolas empapadas en leche, infusionadas con canela y rociadas con miel para un dulce y delicioso capricho.",
 				"en": "Traditional Spanish French toast soaked in milk, infused with cinnamon, and drizzled with honey for a sweet, indulgent treat.",
@@ -745,6 +751,7 @@
 				"fr": "spécialités",
 				"de": "Spezialitäten"
 			},
+			"allergens": ["gluten", "eggs", "dairy"],
 			"description": {
 				"es": "Tortitas esponjosas con forma de personajes divertidos, servidas con jarabe de arce y un toque de azúcar glas, perfectas para los niños.",
 				"en": "Fluffy pancakes shaped like fun characters, served with maple syrup and a sprinkle of powdered sugar, perfect for kids.",
@@ -773,6 +780,7 @@
 				"fr": "menu enfants",
 				"de": "Kindermenü"
 			},
+			"allergens": ["gluten", "eggs", "soybeans"],
 			"description": {
 				"es": "Nuggets de pollo dorados y crujientes hechos con pechuga de pollo tierna, servidos con ketchup o salsa barbacoa, perfectos para los niños.",
 				"en": "Crispy, golden chicken nuggets made from tender chicken breast, served with a side of ketchup or BBQ sauce, perfect for kids.",
@@ -801,6 +809,7 @@
 				"fr": "accompagnements",
 				"de": "Beilagen"
 			},
+			"allergens": ["dairy"],
 			"description": {
 				"es": "Puré de patatas cremoso, batido con mantequilla y un toque de nata, sazonado a la perfección para un acompañamiento reconfortante.",
 				"en": "Creamy mashed potatoes, whipped with butter and a touch of cream, seasoned to perfection for a comforting side.",
@@ -829,6 +838,7 @@
 				"fr": "spécialités",
 				"de": "Spezialitäten"
 			},
+			"allergens": ["gluten", "dairy"],
 			"description": {
 				"es": "Tres mini tacos del tamaño de un niño rellenos de carne picada sazonada, lechuga y queso, servidos con una salsa suave al lado.",
 				"en": "Three kid-sized soft tacos filled with seasoned ground beef, lettuce, and cheese, served with a mild salsa on the side.",
@@ -857,6 +867,7 @@
 				"fr": "plats principaux",
 				"de": "Hauptgerichte"
 			},
+			"allergens": ["eggs"],
 			"description": {
 				"es": "Papas fritas crujientes cubiertas con huevos fritos perfectamente cocidos, rotos para crear un plato rico y sabroso, a menudo servido con jamón.",
 				"en": "Crispy fried potatoes topped with perfectly fried eggs, broken to create a rich, savory dish, often served with jamón.",
@@ -885,6 +896,7 @@
 				"fr": "spécialités",
 				"de": "Spezialitäten"
 			},
+			"allergens": ["gluten", "dairy", "sesame"],
 			"description": {
 				"es": "Un par de mini hamburguesas 'Captain’s Sliders' en panecillos coloridos, cubiertas con queso y servidas con una guarnición de patatas fritas crujientes o palitos de verduras para una comida divertida y amigable para los niños.",
 				"en": "A pair of mini 'Captain’s Sliders' burgers on colorful buns, topped with cheese and served with a side of crispy fries or veggie sticks for a fun, kid-friendly meal.",
@@ -913,6 +925,7 @@
 				"fr": "boissons",
 				"de": "Getränke"
 			},
+			"allergens": ["sulphurdioxide"],
 			"description": {
 				"es": "Un vino tinto suave y robusto, servido en copa de 175ml, con notas ricas a bayas y un acabado aterciopelado.",
 				"en": "A smooth and robust red wine, served in a 175ml glass, with rich berry notes and a velvety finish.",
@@ -941,6 +954,7 @@
 				"fr": "boissons",
 				"de": "Getränke"
 			},
+			"allergens": ["none"],
 			"description": {
 				"es": "Agua mineral pura y natural de Galicia, España, con mineralización equilibrada para una hidratación refrescante.",
 				"en": "Pure, natural mineral water from Galicia, Spain, with balanced mineralization for refreshing hydration.",
@@ -969,6 +983,7 @@
 				"fr": "boissons",
 				"de": "Getränke"
 			},
+			"allergens": ["none"],
 			"description": {
 				"es": "Coca-Cola clásica en botella de cristal de 350ml, que ofrece un sabor icónico y refrescante con un equilibrio perfecto de dulzura y burbujas.",
 				"en": "Classic Coca-Cola in a 350ml glass bottle, offering a refreshing, iconic cola taste with a perfect balance of sweetness and fizz.",
@@ -997,6 +1012,7 @@
 				"fr": "boissons",
 				"de": "Getränke"
 			},
+			"allergens": ["citrus"],
 			"description": {
 				"es": "Un refrescante spritz de manzana en botella de 350ml, que combina notas de manzana crujiente con un ligero burbujeo.",
 				"en": "A refreshing apple-flavored spritz in a 350ml bottle, combining crisp apple notes with a light, fizzy sparkle.",
