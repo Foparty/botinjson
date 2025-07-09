@@ -2046,6 +2046,731 @@
 				"fr": "Gaspacho andalou froid à base de tomate, poivron, concombre et huile d'olive extra vierge.",
 				"de": "Kalter andalusischer Gazpacho aus Tomaten, Paprika, Gurke und nativem Olivenöl extra."
 			}
+		},
+		{
+			"id": 300,
+			"name_i18n": {
+				"common": "revueltodelacasa",
+				"es": "Revuelto de la casa",
+				"en": "House scrambled eggs",
+				"pt": "Ovos mexidos da casa",
+				"fr": "Œufs brouillés maison",
+				"de": "Hausgemachtes Rührei"
+			},
+			"price": 16.0,
+			"cover": "/botin/revueltodelacasa.webp",
+			"category": {
+				"common": "eggs",
+				"es": "huevos",
+				"en": "eggs",
+				"pt": "ovos",
+				"fr": "œufs",
+				"de": "Eier"
+			},
+			"allergens": ["eggs", "dairy"],
+			"description": {
+				"es": "Revuelto especial de la casa con ingredientes seleccionados, receta tradicional.",
+				"en": "House special scrambled eggs with selected ingredients, traditional recipe.",
+				"pt": "Ovos mexidos especiais da casa com ingredientes selecionados, receita tradicional.",
+				"fr": "Œufs brouillés maison avec des ingrédients sélectionnés, recette traditionnelle.",
+				"de": "Hausgemachtes Rührei mit ausgewählten Zutaten, traditionelles Rezept."
+			}
+		},
+		{
+			"id": 301,
+			"name_i18n": {
+				"common": "huevosrevueltosesparragos",
+				"es": "Huevos revueltos con espárragos trigueros",
+				"en": "Scrambled eggs with wild asparagus",
+				"pt": "Ovos mexidos com espargos verdes",
+				"fr": "Œufs brouillés aux asperges sauvages",
+				"de": "Rührei mit Wildspargel"
+			},
+			"price": 14.0,
+			"cover": "/botin/huevosrevueltosesparragos.webp",
+			"category": {
+				"common": "eggs",
+				"es": "huevos",
+				"en": "eggs",
+				"pt": "ovos",
+				"fr": "œufs",
+				"de": "Eier"
+			},
+			"allergens": ["eggs", "dairy"],
+			"description": {
+				"es": "Huevos revueltos con espárragos trigueros frescos, plato ligero y sabroso.",
+				"en": "Scrambled eggs with fresh wild asparagus, a light and tasty dish.",
+				"pt": "Ovos mexidos com espargos verdes frescos, prato leve e saboroso.",
+				"fr": "Œufs brouillés aux asperges sauvages fraîches, plat léger et savoureux.",
+				"de": "Rührei mit frischem Wildspargel, leichtes und schmackhaftes Gericht."
+			}
+		},
+		{
+			"id": 302,
+			"name_i18n": {
+				"common": "huevosrevueltossalmon",
+				"es": "Huevos revueltos con salmón ahumado",
+				"en": "Scrambled eggs with smoked salmon",
+				"pt": "Ovos mexidos com salmão fumado",
+				"fr": "Œufs brouillés au saumon fumé",
+				"de": "Rührei mit Räucherlachs"
+			},
+			"price": 14.5,
+			"cover": "/botin/huevosrevueltossalmon.webp",
+			"category": {
+				"common": "eggs",
+				"es": "huevos",
+				"en": "eggs",
+				"pt": "ovos",
+				"fr": "œufs",
+				"de": "Eier"
+			},
+			"allergens": ["eggs", "fish", "dairy"],
+			"description": {
+				"es": "Huevos revueltos cremosos con salmón ahumado, combinación delicada y sabrosa.",
+				"en": "Creamy scrambled eggs with smoked salmon, a delicate and tasty combination.",
+				"pt": "Ovos mexidos cremosos com salmão fumado, combinação delicada e saborosa.",
+				"fr": "Œufs brouillés crémeux au saumon fumé, une combinaison délicate et savoureuse.",
+				"de": "Cremiges Rührei mit Räucherlachs, eine feine und schmackhafte Kombination."
+			}
+		},
+		{
+			"id": 400,
+			"name_i18n": {
+				"common": "angulas",
+				"es": "Angulas",
+				"en": "Eels",
+				"pt": "Enguias",
+				"fr": "Anguilles",
+				"de": "Aale"
+			},
+			"price": 180,
+			"cover": "/botin/angulas.webp",
+			"category": {
+				"common": "fish",
+				"es": "pescado",
+				"en": "fish",
+				"pt": "peixe",
+				"fr": "poisson",
+				"de": "Fisch"
+			},
+			"allergens": ["eggs", "fish", "dairy"],
+			"description": {
+				"es": "Angulas frescas salteadas con un toque de ajo y guindilla.",
+				"en": "Fresh eels sautéed with a touch of garlic and chili.",
+				"pt": "Enguias frescas salteadas com um toque de alho e pimenta.",
+				"fr": "Anguilles fraîches sautées avec une touche d'ail et de piment.",
+				"de": "Frische Aale, sautiert mit einem Hauch von Knoblauch und Chili."
+			}
+		},
+		{
+			"id": 401,
+			"name_i18n": {
+				"common": "almejas",
+				"es": "Almejas Botín",
+				"en": "Botín Clams",
+				"pt": "Amêijoas Botín",
+				"fr": "Palourdes Botín",
+				"de": "Muscheln Botín"
+			},
+			"price": 28,
+			"cover": "/botin/almejas.webp",
+			"category": {
+				"common": "fish",
+				"es": "pescado",
+				"en": "fish",
+				"pt": "peixe",
+				"fr": "poisson",
+				"de": "Fisch"
+			},
+			"allergens": ["fish"],
+			"description": {
+				"es": "Almejas frescas salteadas con un toque de ajo y guindilla.",
+				"en": "Fresh clams sautéed with a touch of garlic and chili.",
+				"pt": "Amêijoas frescas salteadas com um toque de alho e pimenta.",
+				"fr": "Palourdes fraîches sautées avec une touche d'ail et de piment.",
+				"de": "Frische Aale, sautiert mit einem Hauch von Knoblauch und Chili."
+			}
+		},
+		{
+			"id": 402,
+			"name_i18n": {
+				"common": "gambas_a_la_plancha",
+				"es": "Gambas a la plancha",
+				"en": "Grilled Prawns",
+				"pt": "Camarões grelhados",
+				"fr": "Crevettes grillées",
+				"de": "Gegrillte Garnelen"
+			},
+			"price": 35,
+			"cover": "/botin/gambas_plancha.webp",
+			"category": {
+				"common": "fish",
+				"es": "pescado",
+				"en": "fish",
+				"pt": "peixe",
+				"fr": "poisson",
+				"de": "Fisch"
+			},
+			"allergens": ["fish", "shellfish"],
+			"description": {
+				"es": "Gambas frescas cocinadas a la plancha.",
+				"en": "Fresh prawns cooked on the grill.",
+				"pt": "Camarões frescos cozinhados na grelha.",
+				"fr": "Crevettes fraîches cuites sur le gril.",
+				"de": "Frische Garnelen auf dem Grill gekocht."
+			}
+		},
+		{
+			"id": 403,
+			"name_i18n": {
+				"common": "gambas_al_ajillo",
+				"es": "Gambas al ajillo",
+				"en": "Garlic Prawns",
+				"pt": "Camarões ao alho",
+				"fr": "Crevettes à l'ail",
+				"de": "Knoblauchgarnelen"
+			},
+			"price": 22,
+			"cover": "/botin/gambas_ajillo.webp",
+			"category": {
+				"common": "fish",
+				"es": "pescado",
+				"en": "fish",
+				"pt": "peixe",
+				"fr": "poisson",
+				"de": "Fisch"
+			},
+			"allergens": ["fish", "shellfish"],
+			"description": {
+				"es": "Gambas salteadas con ajo y aceite de oliva.",
+				"en": "Prawns sautéed with garlic and olive oil.",
+				"pt": "Camarões salteados com alho e azeite.",
+				"fr": "Crevettes sautées à l'ail et à l'huile d'olive.",
+				"de": "Garnelen mit Knoblauch und Olivenöl angebraten."
+			}
+		},
+		{
+			"id": 404,
+			"name_i18n": {
+				"common": "langostinos",
+				"es": "Langostinos a la plancha o al ajillo",
+				"en": "Grilled or Garlic Langoustines",
+				"pt": "Lagostins grelhados ou ao alho",
+				"fr": "Langoustines grillées ou à l'ail",
+				"de": "Gegrillte oder Knoblauch-Langoustines"
+			},
+			"price": 26.5,
+			"cover": "/botin/langostinos.webp",
+			"category": {
+				"common": "fish",
+				"es": "pescado",
+				"en": "fish",
+				"pt": "peixe",
+				"fr": "poisson",
+				"de": "Fisch"
+			},
+			"allergens": ["fish", "shellfish"],
+			"description": {
+				"es": "Langostinos frescos a la plancha o con ajo.",
+				"en": "Fresh langoustines grilled or with garlic.",
+				"pt": "Lagostins frescos grelhados ou com alho.",
+				"fr": "Langoustines fraîches grillées ou à l'ail.",
+				"de": "Frische Langoustines gegrillt oder mit Knoblauch."
+			}
+		},
+		{
+			"id": 405,
+			"name_i18n": {
+				"common": "cazuela_de_pescados",
+				"es": "Cazuela de pescados",
+				"en": "Fish Stew",
+				"pt": "Ensopado de peixe",
+				"fr": "Ragoût de poisson",
+				"de": "Fischragout"
+			},
+			"price": 30,
+			"cover": "/botin/cazuela_pescados.webp",
+			"category": {
+				"common": "fish",
+				"es": "pescado",
+				"en": "fish",
+				"pt": "peixe",
+				"fr": "poisson",
+				"de": "Fisch"
+			},
+			"allergens": ["fish"],
+			"description": {
+				"es": "Cazuela tradicional con mezcla de pescados frescos.",
+				"en": "Traditional stew with a mix of fresh fish.",
+				"pt": "Ensopado tradicional com mistura de peixes frescos.",
+				"fr": "Ragoût traditionnel avec un mélange de poissons frais.",
+				"de": "Traditionelles Ragout mit einer Mischung frischer Fische."
+			}
+		},
+		{
+			"id": 406,
+			"name_i18n": {
+				"common": "merluza",
+				"es": "Merluza al horno o frita",
+				"en": "Baked or Fried Hake",
+				"pt": "Merluza assada ou frita",
+				"fr": "Merluza au four ou frite",
+				"de": "Gebackener oder fritierter Hecht"
+			},
+			"price": 29,
+			"cover": "/botin/merluza.webp",
+			"category": {
+				"common": "fish",
+				"es": "pescado",
+				"en": "fish",
+				"pt": "peixe",
+				"fr": "poisson",
+				"de": "Fisch"
+			},
+			"allergens": ["fish"],
+			"description": {
+				"es": "Merluza fresca al horno o frita a tu gusto.",
+				"en": "Fresh hake baked or fried to your liking.",
+				"pt": "Merluza fresca assada ou frita a seu gosto.",
+				"fr": "Merluza fraîche au four ou frite selon votre goût.",
+				"de": "Frischer Hecht gebacken oder frittiert nach Ihrem Geschmack."
+			}
+		},
+		{
+			"id": 407,
+			"name_i18n": {
+				"common": "lenguado",
+				"es": "Lenguado frito, al horno o a la plancha (pieza)",
+				"en": "Fried, Baked, or Grilled Sole (piece)",
+				"pt": "Linguado frito, assado ou grelhado (peça)",
+				"fr": "Sole frite, au four ou grillée (pièce)",
+				"de": "Gebratene, gebackene oder gegrillte Seezunge (Stück)"
+			},
+			"price": 35,
+			"cover": "/botin/lenguado.webp",
+			"category": {
+				"common": "fish",
+				"es": "pescado",
+				"en": "fish",
+				"pt": "peixe",
+				"fr": "poisson",
+				"de": "Fisch"
+			},
+			"allergens": ["fish"],
+			"description": {
+				"es": "Lenguado fresco preparado frito, al horno o a la plancha.",
+				"en": "Fresh sole prepared fried, baked, or grilled.",
+				"pt": "Linguado fresco preparado frito, assado ou grelhado.",
+				"fr": "Sole fraîche préparée frite, au four ou grillée.",
+				"de": "Frische Seezunge frittiert, gebacken oder gegrillt."
+			}
+		},
+		{
+			"id": 408,
+			"name_i18n": {
+				"common": "calamares",
+				"es": "Calamares fritos",
+				"en": "Fried Squid",
+				"pt": "Lulas fritas",
+				"fr": "Calamars frits",
+				"de": "Gebratene Kalamare"
+			},
+			"price": 25.5,
+			"cover": "/botin/calamares.webp",
+			"category": {
+				"common": "fish",
+				"es": "pescado",
+				"en": "fish",
+				"pt": "peixe",
+				"fr": "poisson",
+				"de": "Fisch"
+			},
+			"allergens": ["fish"],
+			"description": {
+				"es": "Calamares frescos fritos hasta quedar crujientes.",
+				"en": "Fresh squid fried until crispy.",
+				"pt": "Lulas frescas fritas até ficarem crocantes.",
+				"fr": "Calamars frais frits jusqu'à devenir croustillants.",
+				"de": "Frische Kalamare frittiert bis sie knusprig sind."
+			}
+		},
+		{
+			"id": 409,
+			"name_i18n": {
+				"common": "bacalao",
+				"es": "Bacalao en salsa de tomate y ñora",
+				"en": "Cod in Tomato and Ñora Sauce",
+				"pt": "Bacalhau em molho de tomate e ñora",
+				"fr": "Morue en sauce tomate et ñora",
+				"de": "Kabeljau in Tomaten- und Ñora-Sauce"
+			},
+			"price": 28,
+			"cover": "/botin/bacalao.webp",
+			"category": {
+				"common": "fish",
+				"es": "pescado",
+				"en": "fish",
+				"pt": "peixe",
+				"fr": "poisson",
+				"de": "Fisch"
+			},
+			"allergens": ["fish"],
+			"description": {
+				"es": "Bacalao fresco en salsa de tomate y ñora casera.",
+				"en": "Fresh cod in homemade tomato and ñora sauce.",
+				"pt": "Bacalhau fresco em molho de tomate e ñora caseiro.",
+				"fr": "Morue fraîche dans une sauce tomate et ñora maison.",
+				"de": "Frischer Kabeljau in hausgemachter Tomaten- und Ñora-Sauce."
+			}
+		},
+		{
+			"id": 500,
+			"name_i18n": {
+				"common": "tarta_botin",
+				"es": "Tarta Botín",
+				"en": "Botín Tart",
+				"pt": "Torta Botín",
+				"fr": "Tarte Botín",
+				"de": "Botín Tarte"
+			},
+			"price": 7.5,
+			"cover": "/desserts/tarta_botin.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": ["gluten", "dairy", "eggs"],
+			"description": {
+				"es": "Tarta casera tradicional de Botín.",
+				"en": "Traditional homemade Botín tart.",
+				"pt": "Torta caseira tradicional de Botín.",
+				"fr": "Tarte maison traditionnelle de Botín.",
+				"de": "Traditionelle hausgemachte Botín-Tarte."
+			}
+		},
+		{
+			"id": 501,
+			"name_i18n": {
+				"common": "flan",
+				"es": "Flan",
+				"en": "Flan",
+				"pt": "Flan",
+				"fr": "Flan",
+				"de": "Flan"
+			},
+			"price": 5.5,
+			"cover": "/desserts/flan.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": ["dairy", "eggs"],
+			"description": {
+				"es": "Flan cremoso con caramelo líquido.",
+				"en": "Creamy flan with liquid caramel.",
+				"pt": "Flan cremoso com caramelo líquido.",
+				"fr": "Flan crémeux avec caramel liquide.",
+				"de": "Cremiger Flan mit flüssigem Karamell."
+			}
+		},
+		{
+			"id": 502,
+			"name_i18n": {
+				"common": "crema_catalana",
+				"es": "Crema Catalana",
+				"en": "Catalan Cream",
+				"pt": "Creme catalão",
+				"fr": "Crème catalane",
+				"de": "Katalanische Creme"
+			},
+			"price": 6.2,
+			"cover": "/desserts/crema_catalana.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": ["dairy", "eggs"],
+			"description": {
+				"es": "Crema catalana tradicional con caramelo tostado.",
+				"en": "Traditional Catalan cream with toasted caramel.",
+				"pt": "Creme catalão tradicional com caramelo tostado.",
+				"fr": "Crème catalane traditionnelle avec caramel grillé.",
+				"de": "Traditionelle katalanische Creme mit geröstetem Karamell."
+			}
+		},
+		{
+			"id": 503,
+			"name_i18n": {
+				"common": "arroz_con_leche",
+				"es": "Arroz con Leche",
+				"en": "Rice Pudding",
+				"pt": "Arroz-doce",
+				"fr": "Riz au lait",
+				"de": "Milchreis"
+			},
+			"price": 5.5,
+			"cover": "/desserts/arroz_con_leche.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": ["dairy"],
+			"description": {
+				"es": "Arroz con leche tradicional con canela.",
+				"en": "Traditional rice pudding with cinnamon.",
+				"pt": "Arroz-doce tradicional com canela.",
+				"fr": "Riz au lait traditionnel avec cannelle.",
+				"de": "Traditioneller Milchreis mit Zimt."
+			}
+		},
+		{
+			"id": 504,
+			"name_i18n": {
+				"common": "mel_i_mato",
+				"es": "Mel i Mató",
+				"en": "Mel i Mató",
+				"pt": "Mel i mató",
+				"fr": "Mel i mató",
+				"de": "Mel i mató"
+			},
+			"price": 6.5,
+			"cover": "/desserts/mel_i_mato.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": ["dairy"],
+			"description": {
+				"es": "Postre catalán de queso fresco con miel.",
+				"en": "Catalan dessert of fresh cheese with honey.",
+				"pt": "Sobremesa catalã de queijo fresco com mel.",
+				"fr": "Dessert catalan de fromage frais avec miel.",
+				"de": "Katalanisches Dessert aus Frischkäse mit Honig."
+			}
+		},
+		{
+			"id": 505,
+			"name_i18n": {
+				"common": "coulant_de_chocolate",
+				"es": "Coulant de Chocolate",
+				"en": "Chocolate Coulant",
+				"pt": "Coulant de chocolate",
+				"fr": "Coulant au chocolat",
+				"de": "Schokoladen-Coulant"
+			},
+			"price": 7.0,
+			"cover": "/desserts/coulant_de_chocolate.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": ["dairy", "gluten", "eggs"],
+			"description": {
+				"es": "Coulant de chocolate caliente con corazón fundido.",
+				"en": "Warm chocolate coulant with a molten center.",
+				"pt": "Coulant de chocolate quente com centro derretido.",
+				"fr": "Coulant au chocolat chaud avec un cœur fondant.",
+				"de": "Warmer Schokoladen-Coulant mit geschmolzenem Kern."
+			}
+		},
+		{
+			"id": 506,
+			"name_i18n": {
+				"common": "tiramisu",
+				"es": "Tiramisú",
+				"en": "Tiramisu",
+				"pt": "Tiramisú",
+				"fr": "Tiramisu",
+				"de": "Tiramisu"
+			},
+			"price": 7.5,
+			"cover": "/desserts/tiramisu.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": ["dairy", "eggs", "gluten"],
+			"description": {
+				"es": "Tiramisú clásico con café y mascarpone.",
+				"en": "Classic tiramisu with coffee and mascarpone.",
+				"pt": "Tiramisú clássico com café e mascarpone.",
+				"fr": "Tiramisu classique avec café et mascarpone.",
+				"de": "Klassisches Tiramisu mit Kaffee und Mascarpone."
+			}
+		},
+		{
+			"id": 507,
+			"name_i18n": {
+				"common": "helado",
+				"es": "Helado",
+				"en": "Ice Cream",
+				"pt": "Sorvete",
+				"fr": "Glace",
+				"de": "Eiscreme"
+			},
+			"price": 6.5,
+			"cover": "/desserts/helado.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": ["dairy"],
+			"description": {
+				"es": "Helado cremoso de sabores variados.",
+				"en": "Creamy ice cream in various flavors.",
+				"pt": "Sorvete cremoso em vários sabores.",
+				"fr": "Glace crémeuse en divers parfums.",
+				"de": "Cremiges Eis in verschiedenen Geschmacksrichtungen."
+			}
+		},
+		{
+			"id": 508,
+			"name_i18n": {
+				"common": "sorbete",
+				"es": "Sorbete",
+				"en": "Sorbet",
+				"pt": "Sorbet",
+				"fr": "Sorbet",
+				"de": "Sorbet"
+			},
+			"price": 6.0,
+			"cover": "/desserts/sorbete.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Sorbete refrescante de frutas naturales.",
+				"en": "Refreshing sorbet made from natural fruits.",
+				"pt": "Sorbet refrescante feito de frutas naturais.",
+				"fr": "Sorbet rafraîchissant à base de fruits naturels.",
+				"de": "Erfrischendes Sorbet aus natürlichen Früchten."
+			}
+		},
+		{
+			"id": 509,
+			"name_i18n": {
+				"common": "cheesecake",
+				"es": "Cheesecake",
+				"en": "Cheesecake",
+				"pt": "Bolo de queijo",
+				"fr": "Gâteau au fromage",
+				"de": "Käsekuchen"
+			},
+			"price": 7.0,
+			"cover": "/desserts/cheesecake.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": ["dairy", "gluten", "eggs"],
+			"description": {
+				"es": "Tarta de queso cremosa con base crujiente.",
+				"en": "Creamy cheesecake with a crunchy base.",
+				"pt": "Bolo de queijo cremoso com base crocante.",
+				"fr": "Gâteau au fromage crémeux avec une base croustillante.",
+				"de": "Cremiger Käsekuchen mit knuspriger Basis."
+			}
+		},
+		{
+			"id": 510,
+			"name_i18n": {
+				"common": "mousse_de_limon",
+				"es": "Mousse de Limón",
+				"en": "Lemon Mousse",
+				"pt": "Mousse de limão",
+				"fr": "Mousse au citron",
+				"de": "Zitronenmousse"
+			},
+			"price": 6.8,
+			"cover": "/desserts/mousse_de_limon.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": ["dairy", "eggs"],
+			"description": {
+				"es": "Mousse ligera y refrescante de limón.",
+				"en": "Light and refreshing lemon mousse.",
+				"pt": "Mousse leve e refrescante de limão.",
+				"fr": "Mousse légère et rafraîchissante au citron.",
+				"de": "Leichte und erfrischende Zitronenmousse."
+			}
+		},
+		{
+			"id": 511,
+			"name_i18n": {
+				"common": "fruta_de_temporada",
+				"es": "Fruta de Temporada",
+				"en": "Seasonal Fruit",
+				"pt": "Fruta da estação",
+				"fr": "Fruits de saison",
+				"de": "Saisonale Früchte"
+			},
+			"price": 5.0,
+			"cover": "/desserts/fruta_de_temporada.webp",
+			"category": {
+				"common": "desserts",
+				"es": "postres",
+				"en": "desserts",
+				"pt": "sobremesas",
+				"fr": "desserts",
+				"de": "Desserts"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Selección de frutas frescas de temporada.",
+				"en": "Selection of fresh seasonal fruits.",
+				"pt": "Seleção de frutas frescas da estação.",
+				"fr": "Sélection de fruits frais de saison.",
+				"de": "Auswahl frischer saisonaler Früchte."
+			}
 		}
 	]
 }
