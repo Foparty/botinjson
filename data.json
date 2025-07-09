@@ -1959,6 +1959,93 @@
 				"fr": "Champignons frais sautés avec du jambon ibérique.",
 				"de": "Frische Pilze, gebraten mit Ibérico-Schinken."
 			}
+		},
+		{
+			"id": 200,
+			"name_i18n": {
+				"common": "sopaajohuevojamon",
+				"es": "Sopa de ajo con huevo y jamón",
+				"en": "Garlic soup with egg and ham",
+				"pt": "Sopa de alho com ovo e presunto",
+				"fr": "Soupe à l'ail avec œuf et jambon",
+				"de": "Knoblauchsuppe mit Ei und Schinken"
+			},
+			"price": 12.0,
+			"cover": "/botin/sopaajohuevojamon.webp",
+			"category": {
+				"common": "soups",
+				"es": "sopas",
+				"en": "soups",
+				"pt": "sopas",
+				"fr": "soupes",
+				"de": "Suppen"
+			},
+			"allergens": ["eggs", "pork", "gluten"],
+			"description": {
+				"es": "Sopa tradicional de ajo con huevo escalfado y jamón, receta castellana reconfortante.",
+				"en": "Traditional garlic soup with poached egg and ham, a comforting Castilian recipe.",
+				"pt": "Sopa tradicional de alho com ovo escalfado e presunto, receita castelhana reconfortante.",
+				"fr": "Soupe traditionnelle à l'ail avec œuf poché et jambon, une recette castillane réconfortante.",
+				"de": "Traditionelle Knoblauchsuppe mit pochiertem Ei und Schinken, ein wohltuendes kastilisches Rezept."
+			}
+		},
+		{
+			"id": 201,
+			"name_i18n": {
+				"common": "caldoave",
+				"es": "Caldo de ave",
+				"en": "Chicken broth",
+				"pt": "Caldo de galinha",
+				"fr": "Bouillon de volaille",
+				"de": "Hühnerbrühe"
+			},
+			"price": 8.5,
+			"cover": "/botin/caldoave.webp",
+			"category": {
+				"common": "soups",
+				"es": "sopas",
+				"en": "soups",
+				"pt": "sopas",
+				"fr": "soupes",
+				"de": "Suppen"
+			},
+			"allergens": ["none"],
+			"description": {
+				"es": "Caldo suave de ave, elaborado con pollo y verduras frescas.",
+				"en": "Light chicken broth made with chicken and fresh vegetables.",
+				"pt": "Caldo leve de galinha feito com frango e legumes frescos.",
+				"fr": "Bouillon léger de volaille préparé avec du poulet et des légumes frais.",
+				"de": "Leichte Hühnerbrühe aus Huhn und frischem Gemüse."
+			}
+		},
+		{
+			"id": 202,
+			"name_i18n": {
+				"common": "gazpacho",
+				"es": "Gazpacho",
+				"en": "Gazpacho",
+				"pt": "Gaspacho",
+				"fr": "Gaspacho",
+				"de": "Gazpacho"
+			},
+			"price": 12.0,
+			"cover": "/botin/gazpacho.webp",
+			"category": {
+				"common": "soups",
+				"es": "sopas",
+				"en": "soups",
+				"pt": "sopas",
+				"fr": "soupes",
+				"de": "Suppen"
+			},
+			"allergens": ["gluten"],
+			"description": {
+				"es": "Gazpacho andaluz frío, elaborado con tomate, pimiento, pepino y aceite de oliva virgen extra.",
+				"en": "Chilled Andalusian gazpacho made with tomato, pepper, cucumber, and extra virgin olive oil.",
+				"pt": "Gaspacho andaluz frio feito com tomate, pimentão, pepino e azeite extra virgem.",
+				"fr": "Gaspacho andalou froid à base de tomate, poivron, concombre et huile d'olive extra vierge.",
+				"de": "Kalter andalusischer Gazpacho aus Tomaten, Paprika, Gurke und nativem Olivenöl extra."
+			}
 		}
 	]
 }
