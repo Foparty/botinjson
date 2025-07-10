@@ -162,7 +162,7 @@
 				"de": "Ibérico-Schinken aus Eichelmast"
 			},
 			"price": 28.0,
-			"cover": "/botin/jamoniberico.webp",
+			"cover": "https://images.unsplash.com/photo-1709790028365-d49ae1e20f53?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 			"category": {
 				"common": "appetizers",
 				"es": "entrantes",
@@ -191,7 +191,7 @@
 				"de": "Reiner Schafskäse"
 			},
 			"price": 14.0,
-			"cover": "/botin/quesooveja.webp",
+			"cover": "https://images.unsplash.com/photo-1524835208047-0ed22b4dbc82?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 			"category": {
 				"common": "appetizers",
 				"es": "entrantes",
