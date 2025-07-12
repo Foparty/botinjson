@@ -509,7 +509,7 @@
         "de": "Brathähnchen mit Gemüse"
       },
       "price": 20.0,
-      "cover": "/botin/polloasadoconverduras.webp",
+      "cover": "",
       "category": {
         "common": "meat",
         "es": "carnes y asados",
@@ -538,7 +538,7 @@
         "de": "Landhuhn in Pepitoria-Sauce"
       },
       "price": 24.0,
-      "cover": "/botin/pollocamperopepitoria.webp",
+      "cover": "",
       "category": {
         "common": "meat",
         "es": "carnes y asados",
@@ -567,7 +567,7 @@
         "de": "Geschmorte Rebhuhn"
       },
       "price": 28.0,
-      "cover": "/botin/perdizestofada.webp",
+      "cover": "",
       "category": {
         "common": "meat",
         "es": "carnes y asados",
@@ -596,7 +596,7 @@
         "de": "Gegrilltes Kalbssteak"
       },
       "price": 23.0,
-      "cover": "/botin/fileteterneraplancha.webp",
+      "cover": "",
       "category": {
         "common": "meat",
         "es": "carnes y asados",
@@ -625,7 +625,7 @@
         "de": "Kalbsschnitzel"
       },
       "price": 24.0,
-      "cover": "/botin/escalopeternera.webp",
+      "cover": "",
       "category": {
         "common": "meat",
         "es": "carnes y asados",
@@ -654,7 +654,7 @@
         "de": "Gegrilltes Rinderfilet"
       },
       "price": 31.0,
-      "cover": "/botin/solomilloplancha.webp",
+      "cover": "",
       "category": {
         "common": "meat",
         "es": "carnes y asados",
@@ -683,7 +683,7 @@
         "de": "Rinderfilet Botín mit Champignons"
       },
       "price": 31.0,
-      "cover": "/botin/solomillobotinchampinon.webp",
+      "cover": "",
       "category": {
         "common": "meat",
         "es": "carnes y asados",
@@ -712,7 +712,7 @@
         "de": "Gegrilltes Entrecôte"
       },
       "price": 30.0,
-      "cover": "/botin/entrecotteplancha.webp",
+      "cover": "",
       "category": {
         "common": "meat",
         "es": "carnes y asados",
@@ -741,7 +741,7 @@
         "de": "Spargel mit Mayonnaise"
       },
       "price": 15.0,
-      "cover": "/botin/esparragosmahonesa.webp",
+      "cover": "",
       "category": {
         "common": "vegetables",
         "es": "verduras",
@@ -770,7 +770,7 @@
         "de": "Gebratenes Gemüse mit Ibérico-Schinken"
       },
       "price": 15.0,
-      "cover": "/botin/salteadovegetalesjamon.webp",
+      "cover": "",
       "category": {
         "common": "vegetables",
         "es": "verduras",
@@ -799,7 +799,7 @@
         "de": "Gebratene Artischocken mit Ibérico-Schinken"
       },
       "price": 15.0,
-      "cover": "/botin/alcachofasjamon.webp",
+      "cover": "",
       "category": {
         "common": "vegetables",
         "es": "verduras",
@@ -828,7 +828,7 @@
         "de": "Gebratene grüne Bohnen mit Ibérico-Schinken"
       },
       "price": 14.0,
-      "cover": "/botin/judiasverdesjamon.webp",
+      "cover": "",
       "category": {
         "common": "vegetables",
         "es": "verduras",
@@ -857,7 +857,7 @@
         "de": "Gebratene Pilze mit Ibérico-Schinken"
       },
       "price": 15.0,
-      "cover": "/botin/setasjamon.webp",
+      "cover": "",
       "category": {
         "common": "vegetables",
         "es": "verduras",
@@ -886,7 +886,7 @@
         "de": "Knoblauchsuppe mit Ei und Schinken"
       },
       "price": 12.0,
-      "cover": "/botin/sopaajohuevojamon.webp",
+      "cover": "",
       "category": {
         "common": "soups",
         "es": "sopas",
@@ -915,7 +915,7 @@
         "de": "Hühnerbrühe"
       },
       "price": 8.5,
-      "cover": "/botin/caldoave.webp",
+      "cover": "",
       "category": {
         "common": "soups",
         "es": "sopas",
@@ -944,7 +944,7 @@
         "de": "Gazpacho"
       },
       "price": 12.0,
-      "cover": "/botin/gazpacho.webp",
+      "cover": "",
       "category": {
         "common": "soups",
         "es": "sopas",
@@ -973,7 +973,7 @@
         "de": "Hausgemachtes Rührei"
       },
       "price": 16.0,
-      "cover": "/botin/revueltodelacasa.webp",
+      "cover": "",
       "category": {
         "common": "eggs",
         "es": "huevos",
@@ -1002,7 +1002,7 @@
         "de": "Rührei mit Wildspargel"
       },
       "price": 14.0,
-      "cover": "/botin/huevosrevueltosesparragos.webp",
+      "cover": "",
       "category": {
         "common": "eggs",
         "es": "huevos",
@@ -1031,7 +1031,7 @@
         "de": "Rührei mit Räucherlachs"
       },
       "price": 14.5,
-      "cover": "/botin/huevosrevueltossalmon.webp",
+      "cover": "",
       "category": {
         "common": "eggs",
         "es": "huevos",
@@ -1060,7 +1060,7 @@
         "de": "Aale"
       },
       "price": 180,
-      "cover": "/botin/angulas.webp",
+      "cover": "",
       "category": {
         "common": "fish",
         "es": "pescados",
@@ -1089,7 +1089,7 @@
         "de": "Muscheln Botín"
       },
       "price": 28,
-      "cover": "/botin/almejas.webp",
+      "cover": "",
       "category": {
         "common": "fish",
         "es": "pescados",
@@ -1118,7 +1118,7 @@
         "de": "Gegrillte Garnelen"
       },
       "price": 35,
-      "cover": "/botin/gambas_plancha.webp",
+      "cover": "",
       "category": {
         "common": "fish",
         "es": "pescados",
@@ -1147,7 +1147,7 @@
         "de": "Knoblauchgarnelen"
       },
       "price": 22,
-      "cover": "/botin/gambas_ajillo.webp",
+      "cover": "",
       "category": {
         "common": "fish",
         "es": "pescados",
@@ -1176,7 +1176,7 @@
         "de": "Gegrillte oder Knoblauch-Langoustines"
       },
       "price": 26.5,
-      "cover": "/botin/langostinos.webp",
+      "cover": "",
       "category": {
         "common": "fish",
         "es": "pescados",
@@ -1205,7 +1205,7 @@
         "de": "Fischragout"
       },
       "price": 30,
-      "cover": "/botin/cazuela_pescados.webp",
+      "cover": "",
       "category": {
         "common": "fish",
         "es": "pescados",
@@ -1234,7 +1234,7 @@
         "de": "Gebackener oder fritierter Hecht"
       },
       "price": 29,
-      "cover": "/botin/merluza.webp",
+      "cover": "",
       "category": {
         "common": "fish",
         "es": "pescados",
@@ -1263,7 +1263,7 @@
         "de": "Gebratene, gebackene oder gegrillte Seezunge (Stück)"
       },
       "price": 35,
-      "cover": "/botin/lenguado.webp",
+      "cover": "",
       "category": {
         "common": "fish",
         "es": "pescados",
@@ -1292,7 +1292,7 @@
         "de": "Gebratene Kalamare"
       },
       "price": 25.5,
-      "cover": "/botin/calamares.webp",
+      "cover": "",
       "category": {
         "common": "fish",
         "es": "pescados",
@@ -1321,7 +1321,7 @@
         "de": "Kabeljau in Tomaten- und Ñora-Sauce"
       },
       "price": 28,
-      "cover": "/botin/bacalao.webp",
+      "cover": "",
       "category": {
         "common": "fish",
         "es": "pescados",
@@ -1350,7 +1350,7 @@
         "de": "Botín Tarte"
       },
       "price": 7.5,
-      "cover": "/desserts/tarta_botin.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1379,7 +1379,7 @@
         "de": "Flan"
       },
       "price": 5.5,
-      "cover": "/desserts/flan.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1408,7 +1408,7 @@
         "de": "Katalanische Creme"
       },
       "price": 6.2,
-      "cover": "/desserts/crema_catalana.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1437,7 +1437,7 @@
         "de": "Milchreis"
       },
       "price": 5.5,
-      "cover": "/desserts/arroz_con_leche.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1466,7 +1466,7 @@
         "de": "Mel i mató"
       },
       "price": 6.5,
-      "cover": "/desserts/mel_i_mato.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1495,7 +1495,7 @@
         "de": "Schokoladen-Coulant"
       },
       "price": 7.0,
-      "cover": "/desserts/coulant_de_chocolate.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1524,7 +1524,7 @@
         "de": "Tiramisu"
       },
       "price": 7.5,
-      "cover": "/desserts/tiramisu.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1553,7 +1553,7 @@
         "de": "Eiscreme"
       },
       "price": 6.5,
-      "cover": "/desserts/helado.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1582,7 +1582,7 @@
         "de": "Sorbet"
       },
       "price": 6.0,
-      "cover": "/desserts/sorbete.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1611,7 +1611,7 @@
         "de": "Käsekuchen"
       },
       "price": 7.0,
-      "cover": "/desserts/cheesecake.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1640,7 +1640,7 @@
         "de": "Zitronenmousse"
       },
       "price": 6.8,
-      "cover": "/desserts/mousse_de_limon.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
@@ -1669,7 +1669,7 @@
         "de": "Saisonale Früchte"
       },
       "price": 5.0,
-      "cover": "/desserts/fruta_de_temporada.webp",
+      "cover": "",
       "category": {
         "common": "desserts",
         "es": "postres",
