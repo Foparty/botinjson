@@ -481,6 +481,7 @@
         "de": "Lammbraten"
       },
       "price": 32.0,
+      "cover": "",
       "category": {
         "common": "meat",
         "es": "carnes y asados",
