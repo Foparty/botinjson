@@ -1067,7 +1067,7 @@
         "es": "pescados",
         "en": "fish",
         "pt": "peixe",
-        "fr": "poisson",
+        "fr": "poissons",
         "de": "Fisch"
       },
       "allergens": ["eggs", "fish", "dairy"],
@@ -1096,7 +1096,7 @@
         "es": "pescados",
         "en": "fish",
         "pt": "peixe",
-        "fr": "poisson",
+        "fr": "poissons",
         "de": "Fisch"
       },
       "allergens": ["fish"],
@@ -1125,7 +1125,7 @@
         "es": "pescados",
         "en": "fish",
         "pt": "peixe",
-        "fr": "poisson",
+        "fr": "poissons",
         "de": "Fisch"
       },
       "allergens": ["fish", "shellfish"],
@@ -1154,7 +1154,7 @@
         "es": "pescados",
         "en": "fish",
         "pt": "peixe",
-        "fr": "poisson",
+        "fr": "poissons",
         "de": "Fisch"
       },
       "allergens": ["fish", "shellfish"],
@@ -1183,7 +1183,7 @@
         "es": "pescados",
         "en": "fish",
         "pt": "peixe",
-        "fr": "poisson",
+        "fr": "poissons",
         "de": "Fisch"
       },
       "allergens": ["fish", "shellfish"],
@@ -1212,7 +1212,7 @@
         "es": "pescados",
         "en": "fish",
         "pt": "peixe",
-        "fr": "poisson",
+        "fr": "poissons",
         "de": "Fisch"
       },
       "allergens": ["fish"],
@@ -1241,7 +1241,7 @@
         "es": "pescados",
         "en": "fish",
         "pt": "peixe",
-        "fr": "poisson",
+        "fr": "poissons",
         "de": "Fisch"
       },
       "allergens": ["fish"],
@@ -1270,7 +1270,7 @@
         "es": "pescados",
         "en": "fish",
         "pt": "peixe",
-        "fr": "poisson",
+        "fr": "poissons",
         "de": "Fisch"
       },
       "allergens": ["fish"],
@@ -1299,7 +1299,7 @@
         "es": "pescados",
         "en": "fish",
         "pt": "peixe",
-        "fr": "poisson",
+        "fr": "poissons",
         "de": "Fisch"
       },
       "allergens": ["fish"],
@@ -1328,7 +1328,7 @@
         "es": "pescados",
         "en": "fish",
         "pt": "peixe",
-        "fr": "poisson",
+        "fr": "poissons",
         "de": "Fisch"
       },
       "allergens": ["fish"],
